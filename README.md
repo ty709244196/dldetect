@@ -1,1 +1,2 @@
 # dldetect
+deadlock detection algorithm
